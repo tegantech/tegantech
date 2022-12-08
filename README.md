@@ -1,7 +1,7 @@
  🔗  Hello there,👋
  
     I'm Oghenetega Bryant Okokwake
-    I Aspire to be a Web developer😉📺
+    I Aspire to be a Web developer😉💻
     
     If you somehow found yourself here
     after the previous click,you are a couple clicks
@@ -13,7 +13,7 @@
 - 😎 Mastered programming languages like HTML,CSS and JAVASCRIPT
   
   But then TeganTech is my aspiring company sooner than later we would be heard of Globally
-  📫 You can reach me by clicking on this link👇👇
+  🌍You can reach me by clicking on this link👇👇
                             https://wa.link/gpwu9u
 
 <!---
